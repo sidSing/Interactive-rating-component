@@ -10,9 +10,12 @@
 .attribution {
   font-size: 11px;
   text-align: center;
+  transform: translateY(5rem);
+  color: white;
 }
+
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: lightblue;
 }
 
 .hidden {
